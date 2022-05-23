@@ -7,4 +7,6 @@ The user can choose wether they want their password to have:
 + Numbers
 + Special characters (eg. @, #, &, etc,)
 
+https://camizag.github.io/password-generator/
+
 ![Generator homescreen](./assets/Password-Generator.png)
